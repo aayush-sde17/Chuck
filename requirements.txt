@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+pywhatkit
+wikipedia
+openai
+keyboard
+pycaw
+comtypes
+twilio
+requests
